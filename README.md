@@ -22,3 +22,5 @@ Kelas: TI.23.A2
 ![page-2](/screenshoot/page-2.png)
 ![page-3](/screenshoot/page-3.png)
 ![page-4](/screenshoot/page-4.png)
+
+#### Terima Kasih
